@@ -1,5 +1,5 @@
 ### Full Stack Developer
 
-Currently working for [UseRH](https://github.com/userh-dev)
+This account cointains work for [UseRH](https://github.com/userh-dev)
 
-My personal GitHub account is [abbluiz](https://github.com/abbluiz)
+My main GitHub account is [abbluiz](https://github.com/abbluiz)
